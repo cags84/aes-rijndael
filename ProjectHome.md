@@ -1,0 +1,1 @@
+Programa cifrador o descifrador de archivos, que implementa el algoritmo AES estándar o Rijndael (bloques de 16 bytes y claves de 16, 24 o 32 bytes), con el modo de operación ECB (cada bloque es cifrado independientemente de los demás).
